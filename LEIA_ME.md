@@ -4,5 +4,5 @@
 Para rodar esse projeto, faça:
 
 ```
-odbc SELECT * FROM 
+node app.js
 ```
